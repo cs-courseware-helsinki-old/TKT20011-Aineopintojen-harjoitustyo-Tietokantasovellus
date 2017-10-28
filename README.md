@@ -1,8 +1,8 @@
 # TKT20011-Aineopintojen-harjoitustyo-Tietokantasovellus
 
 ### Kurssisivut
-* [kaikki](https://courses.helsinki.fi/fi/tkt10003/)
-* [syksy-2017](https://courses.helsinki.fi/fi/tkt10003/119284733)
+* [kaikki](https://courses.helsinki.fi/fi/tkt20011/)
+* [syksy-2017](https://courses.helsinki.fi/fi/tkt20011/121539439)
 
 ### Kurssimateriaalit
-* [syksy-2017](ttps://2017-ohjelmointi.github.io/)
+* [syksy-2017]()
